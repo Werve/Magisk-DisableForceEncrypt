@@ -1,6 +1,6 @@
 {
   "version": "v1.0",
   "versionCode": 10,
-  "zipUrl": "https://raw.githubusercontent.com/Werve/Magisk-DisableForceEncrypt/module.zip",
+  "zipUrl": "https://raw.githubusercontent.com/Werve/Magisk-DisableForceEncrypt/DFE_MagiskM_byWerve.zip",
   "changelog": "https://raw.githubusercontent.com/Werve/Magisk-DisableForceEncrypt/changelog.md"
 }
