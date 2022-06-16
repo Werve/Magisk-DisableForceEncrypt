@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=DFE-Magisk
+name=Magisk Module Disable Force Encryption
+version=v1.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=Werve
+description=Try to disable Force Encryption editing fstab file in Project Treble directory /vendor/etc
+updateJson=https://raw.githubusercontent.com/Werve/Magisk-DisableForceEncrypt/master/update.json
